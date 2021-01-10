@@ -16,3 +16,5 @@ function reverseInPlace(array) {
     }
     return array;
 }
+
+console.log(reverseInPlace(["C", "F", "K", "B", "D", "G"]));
