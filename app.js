@@ -5,3 +5,5 @@ function reverseArray(array) {
     }
     return output;
 }
+
+console.log(reverseArray([5,7,9,11,15,17,20]));
